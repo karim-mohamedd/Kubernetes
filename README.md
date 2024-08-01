@@ -124,4 +124,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Happy Kubernetes-ing! 🌟 If you encounter any issues or have questions, please reach out via GitHub Issues or contact [karimelwaraky50@gmail.com].
+Happy Kubernetes-ing! 🌟 If you encounter any issues or have questions, please reach out via GitHub Issues or contact karimelwaraky50@gmail.com.
