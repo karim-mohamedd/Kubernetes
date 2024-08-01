@@ -118,9 +118,7 @@ We welcome contributions to improve the repository! If you have suggestions for 
 5. Push to the branch (`git push origin feature-branch`)
 6. Create a new Pull Request
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
