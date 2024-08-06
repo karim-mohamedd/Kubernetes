@@ -26,7 +26,7 @@ Before you start, make sure you have the following tools and knowledge:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/kubernetes-practice.git
+   git clone https://github.com/karim-mohamedd/kubernetes-practice.git
    cd kubernetes-practice
    ```
 
