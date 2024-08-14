@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: ResourceQuota
+metadata:
+  name: deployment-quota
+  namespace: ns1
+spec:
+  hard:
+    count/deployments.apps: "1"
+---
+apiVersion: v1
+kind: ResourceQuota
+metadata:
+  name: deployment-quota
+  namespace: ns2
+spec:
+  hard:
+    count/deployments.apps: "1"
